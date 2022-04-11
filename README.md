@@ -1,8 +1,6 @@
-Implementation of paper "Federated Collaborative Transfer for Recommendaiton" in SIGIR2021
+Implementation of FedCT framework.
 
-Full code is still under optimization. Please contact Shuchang for temporary code.
-
-citation:
+Pivot citation:
 
 ```
 @inproceedings{liu2021fedct,
@@ -13,6 +11,8 @@ citation:
   year={2021}
 }
 ```
+
+Full code is still under optimization. Please contact Shuchang for temporary code.
 
 ## 0. Setup
 
